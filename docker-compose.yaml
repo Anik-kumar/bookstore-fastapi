@@ -1,0 +1,8 @@
+version: '3'
+services:
+  fast-api-service:
+    image: fast-api-project:latest
+    ports:
+      - 8081:8081
+    volumes:
+      - ./src:/opt/fast-api-app/src
