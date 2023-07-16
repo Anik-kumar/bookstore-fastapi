@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "fast-api"
+name = "bookstore-fastapi"
 version = "0.1.0"
 description = "Fast API Project"
-authors = ["Pijus Kumar Sarker <pijus.sarker@gmail.com>"]
+authors = ["Anik Kumar Sarker <anik.kumar.sarker@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11.4"
